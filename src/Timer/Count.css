@@ -1,0 +1,49 @@
+body{
+    background: rgb(123, 199, 182);
+}
+.Card{
+    height: 420px;
+    width: 420px;
+    background-color: rgb(175, 196, 214);
+    margin: auto;
+    margin-top: 80px;
+    box-shadow: 5px 5px 25px 2px rgb(47, 46, 46);
+    border-radius: 10px;
+    text-align: center;
+}
+.Counter{
+   background-color: indigo;
+   height: 80px;
+   margin-top: 40px;
+   
+}
+.h1{
+    padding-top: 20px;
+    color: white;
+}
+.btn{
+    margin-top: 40px;
+    color: violet;
+    font-size: larger;
+}
+.btn1{
+    font-size: larger;
+    margin-right: 50px;
+    background-color: indigo;
+    color: #fff;
+    border-radius: 5px;
+}
+.btn2{
+    font-size: larger;
+   
+    background-color: indigo;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.btn1:hover{
+    color: rgb(30, 93, 30);
+}
+.btn2:hover{
+    color: rgb(230, 21, 14);
+}
