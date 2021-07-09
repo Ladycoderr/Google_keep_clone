@@ -1,5 +1,6 @@
 {
   "name": "newapp",
+  "homepage": "http://Ladycoderr.github.io/Google_keep_clone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,8 +14,8 @@
     "react-digital-clock": "^0.1.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.2",
-    "homepage": "http://Ladycoderr.github.io/Google_keep_clone"
+    "web-vitals": "^1.1.2"
+    
 
   },
   "scripts": {
